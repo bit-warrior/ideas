@@ -1,4 +1,4 @@
-### web3-notes
+### notes for an alternate ethereum front-end lib
 
 ideals:
 - single observable lazy state tree
